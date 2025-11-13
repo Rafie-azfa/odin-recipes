@@ -1,4 +1,4 @@
-# odin-recipes
+# Odin-Recipes
 This is for the Odin Project Recipes Project
 
 In this Lesson for the project I will be building a multiple html web pages
