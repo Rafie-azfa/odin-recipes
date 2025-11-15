@@ -6,16 +6,22 @@ html{
     box-sizing: inherit;
 }
 
-body{
+h1{
     text-align: center;
 }
 
-div{
+img{
+    display: block;
+    margin: 0 auto;
+}
+
+.recipes{
 width: 310px;
 margin: 0 auto;
 }
 
-.recipe{
+a{
+  text-align: center;
   border-radius: 8px;
   border-style: none;
   color: rgb(0, 0, 0);
@@ -37,6 +43,12 @@ margin: 0 auto;
   touch-action: manipulation;
 }
 
+.content{
+    padding-left: 25%;
+    padding-right: 25%;
+    
+}
+
 .recipe.chicken-satay{
     background-color: rgba(227, 177, 103, 0.393);
 }
@@ -47,4 +59,10 @@ margin: 0 auto;
 
 .recipe.microwave-potato{
     background-color: rgb(219, 161, 73);
+}
+
+.home{
+    background-color: rgb(219, 161, 73);
+    width: 512px;
+    margin: 0 auto;
 }
